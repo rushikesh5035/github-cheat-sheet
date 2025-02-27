@@ -1,4 +1,4 @@
-# Comprehensive Git Commands Cheat Sheet
+# Git Commands Cheat Sheet
 
 ## **Configuration**
 
